@@ -37,14 +37,16 @@ Este espaço reúne meus estudos, projetos e experiências no mundo da programa�
 
 ### [UNICID-FRONTEND-ENG-NT-CICLO](https://github.com/lucastfonseca-ai/UNICID-FRONTEND-ENG-NT-CICLO)
 
-📚 Repositório sobre Front-End, reunindo meus estudos e projetos.
+📚 Protótipo de site sobre Sustentabilidade e Impacto Social
 
-🔗 [Acessar repositório](https://github.com/lucastfonseca-ai/UNICID-FRONTEND-ENG-NT-CICLO)
+### Tecnologias Usadas
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Railway](https://img.shields.io/badge/Deploy-Railway-8A2BE2?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/)
+
+🔗 [Acessar repositório](https://github.com/lucastfonseca-ai/UNICID-FRONTEND-ENG-NT-CICLO)
 
 ---
 
