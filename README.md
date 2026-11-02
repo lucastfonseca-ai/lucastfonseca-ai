@@ -1,16 +1,65 @@
-## Hi there 👋
+# Olá! Eu sou Lucas Teodósio da Fonseca! 👋
 
-<!--
-**lucastfonseca-ai/lucastfonseca-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Estudante de Programação | Desenvolvedor em formação
 
-Here are some ideas to get you started:
+Seja bem-vindo(a) ao meu perfil do GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou interessado em tecnologia, programação e desenvolvimento de software.
+Este espaço reúne meus estudos, projetos e experiências no mundo da programação.
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 📚 Estudando programação e desenvolvimento web.
+- 🌐 Interessado em Front-End e Web Design.
+- 💡 Desenvolvendo projetos para aprimorar minhas habilidades.
+- 🎯 Construindo meu portfólio de programação.
+
+---
+
+## 🛠️ Linguagens de programação
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Railway](https://img.shields.io/badge/Deploy-Railway-8A2BE2?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/)
+
+## 🔧 Ferramentas
+
+![Ferramentas](https://skillicons.dev/icons?i=github,vscode&theme=dark)
+
+---
+
+## ⭐ Projeto em destaque
+
+### [UNICID-FRONTEND-ENG-NT-CICLO](https://github.com/lucastfonseca-ai/UNICID-FRONTEND-ENG-NT-CICLO)
+
+📚 Repositório sobre Front-End, reunindo meus estudos e projetos.
+
+🔗 [Acessar repositório](https://github.com/lucastfonseca-ai/UNICID-FRONTEND-ENG-NT-CICLO)
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Railway](https://img.shields.io/badge/Deploy-Railway-8A2BE2?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/)
+
+---
+
+## 📂 Outros projetos
+
+- [Portfólio de Programação](https://github.com/lucastfonseca-ai/portfolio-lucas-teodosio-da-fonseca)
+
+---
+
+## 📫 Contato
+
+- GitHub: [@lucastfonseca-ai](https://github.com/lucastfonseca-ai)
+- LinkedIn: [Lucas Teodósio da Fonseca](https://www.linkedin.com/in/lucas-teodósio-da-fonseca-2483bb3a3)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
