@@ -26,6 +26,7 @@ Este espaço reúne meus estudos, projetos e experiências no mundo da programa�
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Railway](https://img.shields.io/badge/Deploy-Railway-8A2BE2?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://elegant-rugelach-f37051.netlify.app)
 
 ## 🔧 Ferramentas
 
